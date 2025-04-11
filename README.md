@@ -30,3 +30,13 @@ All plots are generated using **Matplotlib**, with distinct colors for each team
 - Black dashed line for league average
 - Red dotted line for trend (regression line)
 - Vertical marker for significant historical events (e.g., 2015 GSW championship)
+
+## 🧠 Conclusion
+
+Although it is commonly believed that the NBA has become shorter in recent years due to the rise of faster-paced, small-ball playstyles, our data analysis reveals a more nuanced explanation. The decline in average player height during the mid-2010s coincides with the dominance of **Stephen Curry** and the Golden State Warriors, whose success popularized guard-heavy lineups and perimeter shooting. This era temporarily pulled average heights downward.
+
+However, this trend is not strictly chronological. In earlier decades, the league was shaped by legendary centers such as **Shaquille O’Neal**, **Hakeem Olajuwon**, **David Robinson**, and **Patrick Ewing**—all towering at or above **213 cm**—who defined the game from the paint. In recent seasons, the resurgence of dominant big men like **Nikola Jokić** has renewed the league’s emphasis on interior presence, contributing to a rebound in average height.
+
+> In conclusion, average player height in the NBA does not steadily decline or rise with time.  
+> Instead, it reflects the influence of **era-defining superstars** who reshape how the game is played.
+
